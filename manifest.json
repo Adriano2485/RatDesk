@@ -1,6 +1,6 @@
 {
-    "name": "RatDesk",
-    "short_name": "RatDesk",
+    "name": "RateDesk",
+    "short_name": "RateDesk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
